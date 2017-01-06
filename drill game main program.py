@@ -1,3 +1,11 @@
+"""
+
+This program is a simple math drill game that allows the user
+to determine the amount of problems posed and the spacing of the symbols.
+It also keeps track of the user's score. 
+
+"""
+
 import random
 import game_functions
 
